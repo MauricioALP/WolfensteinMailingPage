@@ -48,32 +48,32 @@ table {
 
 @font-face{
     font-family: Wolf;
-    src: url(/Font/Wolfenstein/wolfenstein.ttf);
+    src: url(../Font/Wolfenstein/wolfenstein.ttf);
 }
 
 @font-face{
     font-family: Serp;
-    src: url(/Font/Serpentine/33713_SerpentineBoldItalic.ttf);
+    src: url(../Font/Serpentine/33713_SerpentineBoldItalic.ttf);
 }
 
 @font-face{
     font-family: Century;
     font-style: normal;
     font-weight: normal;
-    src: local('Century Gothic Regular'), url(/Font/CentGot/GOTHIC.woff) format('woff');
+    src: local('Century Gothic Regular'), url(../Font/CentGot/GOTHIC.woff) format('woff');
 }
 
 @font-face {
     font-family: 'CenturyBold';
     font-style: normal;
     font-weight: normal;
-    src: local('Century Gothic Bold'), url(/Font/CentGot/GOTHICB.woff) format('woff');
+    src: local('Century Gothic Bold'), url(../Font/CentGot/GOTHICB.woff) format('woff');
     }
 
 body{
     width: 720px;
     height: 1200px;
-    background-image: url(/img/background.png);
+    background-image: url(../img/background.png);
     background-repeat: no-repeat;
 }
 
@@ -135,7 +135,7 @@ body{
     margin: 75px 0 0 18px;
     width: 680px;
     height: 650px;
-    background-image: url(/img/cardbackg.png);
+    background-image: url(../img/cardbackg.png);
     opacity: 0.9;
     border-radius: 10%;
 }

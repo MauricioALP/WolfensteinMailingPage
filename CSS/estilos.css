@@ -194,16 +194,19 @@ body{
 .card2{
     margin-top: 60px;
     height: 300px;
+    background-image: url(../img/Separador.png);
 }
 
 #vid1{
     margin-left: 22px;
+    margin-top: 35px;
     width: 300px;
     float: left;
 }
 
 #vid2{
     width: 300px;
+    margin-top: 35px;
     float: left;
     margin-left: 30px;
 }
